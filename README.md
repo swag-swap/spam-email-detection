@@ -1,6 +1,5 @@
 ## About The Project
-
-![Product Name Screen Shot][product-screenshot]
+ 
 
 Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
 
